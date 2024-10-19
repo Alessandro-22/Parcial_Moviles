@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="submit_answer">Enviar Respuesta</string>
+    <string name="next_question">Siguiente Pregunta</string>
+    <string name="correct_answer">¡Correcto!</string>
+    <string name="incorrect_answer">Incorrecto</string>
+    <string name="final_score">Puntaje final: %1$d de %2$d</string>
+    <string name="restart_game">Reiniciar juego</string>
+    <string name="select_answer">Por favor, selecciona una respuesta</string>
+    <string name="app_name">Tu Juego</string>
+    <string name="welcome_message">¡Bienvenido al juego! Responde correctamente a las preguntas y acumula puntos. ¡Buena suerte!</string>
+    <string name="start_game">Iniciar Juego</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
